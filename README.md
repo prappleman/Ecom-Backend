@@ -13,7 +13,7 @@ The Ecom Backend project with Sequelize ORM integration is crucial for building 
 - [Questions](#questions)
 
 ## Getting Started
-Watch a video demonstration of the project [here](https://youtu.be/8VO373lwoyM).
+Watch a video demonstration of the project [here](https://youtu.be/HKXMw1qRJiM).
 
 1. **Install Dependencies:**
 
@@ -62,7 +62,7 @@ Watch a video demonstration of the project [here](https://youtu.be/8VO373lwoyM).
     npm start
     ```
     By following these steps in order, users can easily set up and start using your app with the required database configuration and initial data. Adjust the file paths and commands as per your project's structure.
-<img src="assets\employee-table.png" title="Employee Table">
+<img src="assets\insomnia.png" title="insomnia test">
 
 ## Features
 
