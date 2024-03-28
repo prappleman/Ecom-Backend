@@ -52,7 +52,7 @@ Watch a video demonstration of the project [here](https://youtu.be/8VO373lwoyM).
     source db/schema.sql;
     ```
 6. **Run Your Application:**
-7. 
+   
     Before starting your Node.js application, seed the database with initial data using the following command:
     ```
     npm run seed
@@ -68,14 +68,19 @@ Watch a video demonstration of the project [here](https://youtu.be/8VO373lwoyM).
 
 **Environment Variable Setup:**
 - Safely store database credentials in an environment variable file for security.
+  
 **Database Connection:**
 - Seamlessly connect to MySQL database using Sequelize ORM for efficient data handling.
+
 **Schema and Seeding:**
 - Initialize a development database with schema definitions and seed it with test data for testing and development purposes.
+  
 **Server Start and Sync:**
 - Launch the Express server to handle API requests and automatically sync Sequelize models with the MySQL database for data consistency.
+  
 **CRUD Operations:**
 - Implement API endpoints for creating, reading, updating, and deleting data (categories, products, tags) to manage database records effectively.
+  
 **Formatted JSON Responses:**
 - Receive formatted JSON responses for API GET routes, making it easier to consume and display data in frontend applications.
 
@@ -103,6 +108,7 @@ Pull Requests
   - Start the Express server and ensure Sequelize models are synced with the database.
   - Use Insomnia to test API endpoints for CRUD operations (GET, POST, PUT, DELETE) on categories, products, and tags.
   - Verify that the project functions as expected by receiving formatted JSON responses and successfully performing data manipulation operations.
+
   By following these steps and leveraging Insomnia for API testing, developers can ensure the reliability and effectiveness of the Express.js API project with Sequelize integration.
 
 ## License
